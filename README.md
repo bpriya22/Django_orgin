@@ -5,3 +5,8 @@ add and fetch data from db: https://www.fundaofwebit.com/django/insert-data-into
 
 *****Creating Models*****:
 https://www.w3schools.com/django/django_models.php
+
+
+
+*****Crispy Forms*****:
+https://ordinarycoders.com/blog/article/render-forms-with-django-crispy-forms
