@@ -10,3 +10,7 @@ https://www.w3schools.com/django/django_models.php
 
 *****Crispy Forms*****:
 https://ordinarycoders.com/blog/article/render-forms-with-django-crispy-forms
+
+
+*****Class based view*****:
+https://www.makeuseof.com/crud-app-with-django-class-based-views/#:~:text=One%20of%20the%20key%20features,still%20use%20function%2Dbased%20views.
