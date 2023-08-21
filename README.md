@@ -25,3 +25,7 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 CRUD OP:
 https://pythonistaplanet.com/flask-to-do-list/
 
+
+CD OP:
+https://pythonistaplanet.com/to-do-list-app-using-django/
+
