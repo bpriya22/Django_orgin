@@ -14,3 +14,8 @@ https://ordinarycoders.com/blog/article/render-forms-with-django-crispy-forms
 
 *****Class based view*****:
 https://www.makeuseof.com/crud-app-with-django-class-based-views/#:~:text=One%20of%20the%20key%20features,still%20use%20function%2Dbased%20views.
+
+
+
+*****Projects must try*****:
+https://pythonistaplanet.com/django-project-ideas/
