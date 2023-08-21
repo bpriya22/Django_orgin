@@ -19,3 +19,5 @@ https://www.makeuseof.com/crud-app-with-django-class-based-views/#:~:text=One%20
 
 *****Projects must try*****:
 https://pythonistaplanet.com/django-project-ideas/
+
+https://www.udemy.com/course/python-django-dev-to-deployment/
