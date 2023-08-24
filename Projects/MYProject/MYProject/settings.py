@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 
 from pathlib import Path
 import os
+from django.conf import settings
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent      #this is how templates folder is found
@@ -78,10 +80,10 @@ WSGI_APPLICATION = 'MYProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'telusko',
+        'NAME': 'priya',
         'USER': 'postgres',
         'PASSWORD' : 'tiger',
-        'HOST' : 'localhost',
+        'HOST' : '127.0.0.1',
 
     }
 }
@@ -131,3 +133,5 @@ STATIC_ROOT = os.path.join(BASE_DIR,'assets') #--->these 2 things are must- for 
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+MEDIA_URL ='/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR,'media')
